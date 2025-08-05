@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606246075954",
+    "project_id": "image-searcher-ac9ac",
+    "storage_bucket": "image-searcher-ac9ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606246075954:android:d963117ff81790d4a4c62b",
+        "android_client_info": {
+          "package_name": "com.example.imagesearcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQt7tJdFcsqK-tB2qRbOGNdMtBEdy9Lzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
